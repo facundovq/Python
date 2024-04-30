@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+
 """
-#####################
-# Proyecto personal #
+Proyecto personal
+
 #####################
 
 Web scraping con API de MELI
@@ -16,7 +17,8 @@ Web scraping con API de MELI
 Importamos paquetes
 
 """
-
+import time
+import csv
 import requests
 
 # Al usar la API tenemos que seguir este formato:
