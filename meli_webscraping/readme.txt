@@ -1,0 +1,1 @@
+Using a public dataset, I evaluate a series of ML models to predict the subscription to a bank's service.
